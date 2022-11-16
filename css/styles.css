@@ -1,0 +1,79 @@
+.row {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.col-1 {
+    background-color: brown;
+    flex: 0 1 calc(100% - 30px);
+    height: 30px;
+}
+
+.col-2 {
+    background-color: brown;
+    flex: 0 1 calc(50% - 30px);
+    height: 30px;
+}
+
+.col-3 {
+    background-color: brown;
+    flex: 0 1 calc(33.3% - 30px);
+    height: 30px;
+}
+
+.col-4 {
+    background-color: brown;
+    flex: 0 1 calc(25% - 30px);
+    height: 30px;
+}
+
+.col-5 {
+    background-color: brown;
+    flex: 0 1 calc(20% - 30px);
+    height: 30px;
+}
+
+.col-6 {
+    background-color: brown;
+    flex: 0 1 calc(16.66% - 30px);
+    height: 30px;
+}
+
+.col-7 {
+    background-color: brown;
+    flex: 0 1 calc(14.28% - 30px);
+    height: 30px;
+}
+
+.col-8 {
+    background-color: brown;
+    flex: 0 1 calc(12.5% - 30px);
+    height: 30px;
+}
+
+.col-9 {
+    background-color: brown;
+    flex: 0 1 calc(11.11% - 30px);
+    height: 30px;
+}
+
+
+.col-10 {
+    background-color: brown;
+    flex: 0 1 calc(10% - 30px);
+    height: 30px;
+}
+
+.col-11 {
+    
+    background-color: brown;
+    flex: 0 1 calc(9.09% - 30px);
+    height: 30px;
+}
+
+.col-12 {
+    background-color: brown;
+    flex: 0 1 calc(8.33% - 30px);
+    height: 30px;
+}
